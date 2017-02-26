@@ -9,7 +9,7 @@ And I test the performance of WebP on browser. -> test.html
 
 ## the performance picture as follows
 
-![performace](https://goo.gl/HVglg3)
+![performace](https://goo.gl/xOkhRt)
 
 - 1AAKna is the origin image, a.jpg. size is 392B
 - wyxAUB is -q 80, a.webp. size is 176B
